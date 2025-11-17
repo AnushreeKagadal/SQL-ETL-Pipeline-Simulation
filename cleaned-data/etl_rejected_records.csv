@@ -1,0 +1,20 @@
+id,table_name,reason,data_json,created_at
+1,orders,Invalid customer or amount,"{""order_id"":""1"",""customer_id"":""36""}",2025-11-05 07:16:25
+2,orders,Invalid customer or amount,"{""order_id"":""19"",""customer_id"":""26""}",2025-11-05 07:16:25
+3,orders,Invalid customer or amount,"{""order_id"":""20"",""customer_id"":""23""}",2025-11-05 07:16:25
+4,orders,Invalid customer or amount,"{""order_id"":""56"",""customer_id"":""97""}",2025-11-05 07:16:25
+5,orders,Invalid customer or amount,"{""order_id"":""59"",""customer_id"":""50""}",2025-11-05 07:16:25
+6,orders,Invalid customer or amount,"{""order_id"":""76"",""customer_id"":""24""}",2025-11-05 07:16:25
+7,orders,Invalid customer or amount,"{""order_id"":""90"",""customer_id"":""16""}",2025-11-05 07:16:25
+8,payments,Invalid order or negative amount,"{""payment_id"":""17"",""order_id"":""58""}",2025-11-05 07:16:37
+9,payments,Invalid order or negative amount,"{""payment_id"":""22"",""order_id"":""53""}",2025-11-05 07:16:37
+10,payments,Invalid order or negative amount,"{""payment_id"":""30"",""order_id"":""74""}",2025-11-05 07:16:37
+11,payments,Invalid order or negative amount,"{""payment_id"":""35"",""order_id"":""60""}",2025-11-05 07:16:37
+12,payments,Invalid order or negative amount,"{""payment_id"":""48"",""order_id"":""59""}",2025-11-05 07:16:37
+13,payments,Invalid order or negative amount,"{""payment_id"":""52"",""order_id"":""64""}",2025-11-05 07:16:37
+14,payments,Invalid order or negative amount,"{""payment_id"":""68"",""order_id"":""6""}",2025-11-05 07:16:37
+15,payments,Invalid order or negative amount,"{""payment_id"":""73"",""order_id"":""1""}",2025-11-05 07:16:37
+16,payments,Invalid order or negative amount,"{""payment_id"":""77"",""order_id"":""56""}",2025-11-05 07:16:37
+17,payments,Invalid order or negative amount,"{""payment_id"":""88"",""order_id"":""19""}",2025-11-05 07:16:37
+18,payments,Invalid order or negative amount,"{""payment_id"":""90"",""order_id"":""56""}",2025-11-05 07:16:37
+19,payments,Invalid order or negative amount,"{""payment_id"":""100"",""order_id"":""19""}",2025-11-05 07:16:37

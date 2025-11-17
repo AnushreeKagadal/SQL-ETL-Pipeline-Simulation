@@ -1,0 +1,5 @@
+id,table_name,inserted_rows,load_time
+1,customers,100,2025-11-05 07:19:39
+2,orders,93,2025-11-05 07:19:43
+3,payments,87,2025-11-05 07:19:48
+4,order_items,0,2025-11-05 07:19:52

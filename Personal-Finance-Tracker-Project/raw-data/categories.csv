@@ -1,0 +1,16 @@
+category_id,name,type,parent
+1,Salary,income,
+2,Freelance,income,
+10,Groceries,expense,Essentials
+11,Rent,expense,Essentials
+12,Utilities,expense,Essentials
+13,Dining Out,expense,Lifestyle
+14,Transport,expense,Essentials
+15,Entertainment,expense,Lifestyle
+16,Health,expense,Essentials
+17,Shopping,expense,Lifestyle
+18,Savings,expense,Financial
+19,Investment,expense,Financial
+20,Subscriptions,expense,Lifestyle
+21,Education,expense,Personal Growth
+22,Travel,expense,Lifestyle

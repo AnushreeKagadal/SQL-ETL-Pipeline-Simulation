@@ -1,0 +1,21 @@
+user_id,name,email,city,role,currency,join_date,monthly_income_estimate
+1,Anushri K,anushrik@example.com,Pune,Teacher,INR,2024-07-20,35000
+2,Rohan Mehta,rohanmehta@example.com,Chennai,Freelancer,INR,2024-07-25,25000
+3,Priya Sharma,priyasharma@example.com,Kochi,Teacher,INR,2024-10-22,95000
+4,Siddharth Rao,siddharthrao@example.com,Mumbai,Entrepreneur,INR,2024-09-07,75000
+5,Meera N,meeran@example.com,Kolkata,Entrepreneur,INR,2024-07-26,65000
+6,Aditi Verma,aditiverma@example.com,Pune,Freelancer,INR,2024-07-15,35000
+7,Karan Patel,karanpatel@example.com,Kolkata,Analyst,INR,2024-06-23,95000
+8,Ishita Das,ishitadas@example.com,Mumbai,Consultant,INR,2024-08-13,15000
+9,Neha Reddy,nehareddy@example.com,Kochi,Marketing Manager,INR,2024-06-14,45000
+10,Arjun Nair,arjunnair@example.com,Hyderabad,Marketing Manager,INR,2024-06-15,95000
+11,Tanya Kapoor,tanyakapoor@example.com,Chennai,Entrepreneur,INR,2024-09-02,65000
+12,Rahul Bhatia,rahulbhatia@example.com,Delhi,Freelancer,INR,2024-11-06,85000
+13,Divya Menon,divyamenon@example.com,Kolkata,Student,INR,2024-10-22,35000
+14,Suresh Iyer,sureshiyer@example.com,Bengaluru,Designer,INR,2024-06-06,85000
+15,Lakshmi Devi,lakshmidevi@example.com,Pune,Designer,INR,2024-09-21,25000
+16,Nikhil Joshi,nikhiljoshi@example.com,Delhi,Homemaker,INR,2024-10-01,75000
+17,Sneha Pillai,snehapillai@example.com,Hyderabad,Student,INR,2024-10-13,45000
+18,Manoj Kumar,manojkumar@example.com,Bengaluru,Freelancer,INR,2024-09-09,95000
+19,Riya Sen,riyasen@example.com,Pune,Student,INR,2024-08-23,85000
+20,Vikram Desai,vikramdesai@example.com,Bengaluru,Student,INR,2024-11-28,120000

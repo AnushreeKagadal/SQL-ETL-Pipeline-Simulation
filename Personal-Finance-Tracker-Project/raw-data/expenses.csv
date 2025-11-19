@@ -1,0 +1,1200 @@
+expense_id,user_id,date,amount,category_id,merchant,payment_method,note
+1080,7,01-01-25,10000,11,Swiggy,Debit Card,split with friend
+2528,14,01-01-25,20000,11,BigBazaar,UPI,
+1037,6,01-01-25,499,20,Netflix,Credit Card,
+2558,14,01-01-25,5552,17,Flipkart,Debit Card,
+1060,7,01-01-25,2164,18,Ola,UPI,
+2095,12,01-01-25,1037,13,GymPlus,UPI,
+3154,17,01-01-25,954,14,Swiggy,Cash,
+301,3,01-01-25,999,20,GymPlus,Credit Card,split with friend
+2873,16,01-01-25,6868,18,Flipkart,UPI,split with friend
+3600,19,01-01-25,4174,18,Ola,Cash,
+984,6,01-01-25,5773,18,Netflix,UPI,
+1573,9,01-01-25,4155,21,Uber,Credit Card,
+3845,20,02-01-25,1191,13,Netflix,UPI,
+82,1,02-01-25,6602,18,Uber,Debit Card,
+2456,13,02-01-25,18000,11,Netflix,Credit Card,
+1235,7,02-01-25,919,15,Uber,Debit Card,
+3443,18,02-01-25,1995,16,IRCTC,Debit Card,
+3622,19,02-01-25,1293,19,GymPlus,Cash,
+30,1,02-01-25,1768,15,BigBazaar,Debit Card,
+2172,12,02-01-25,2202,10,Flipkart,Cash,
+3580,19,02-01-25,2311,19,Zomato,Credit Card,
+2231,12,02-01-25,3013,10,GymPlus,UPI,split with friend
+1041,6,03-01-25,5121,18,MedPlus,Cash,split with friend
+515,3,03-01-25,3805,21,Flipkart,UPI,
+3182,17,03-01-25,2835,19,Uber,Cash,
+2742,15,03-01-25,1515,13,Amazon,Credit Card,split with friend
+1412,8,03-01-25,3960,18,GymPlus,Credit Card,
+526,3,03-01-25,9187,22,MedPlus,Cash,
+591,4,03-01-25,11768,22,MedPlus,Credit Card,split with friend
+3262,17,03-01-25,1816,19,Swiggy,Debit Card,split with friend
+1141,7,03-01-25,1090,12,Zomato,Debit Card,
+2940,16,03-01-25,2580,10,Swiggy,Credit Card,
+2360,13,04-01-25,999,20,IRCTC,UPI,
+1221,7,04-01-25,4604,18,Swiggy,Cash,
+919,6,04-01-25,4182,19,Uber,Credit Card,
+519,3,04-01-25,3235,19,Flipkart,Cash,
+443,3,04-01-25,1568,17,GymPlus,Debit Card,
+3658,20,04-01-25,124,12,Netflix,Debit Card,split with friend
+2364,13,04-01-25,1182,13,Uber,Cash,
+3470,18,04-01-25,1259,12,GymPlus,Cash,
+2141,12,04-01-25,2979,10,GymPlus,Credit Card,
+3212,17,04-01-25,5722,22,BigBazaar,Debit Card,
+194,2,04-01-25,3392,17,MedPlus,Credit Card,
+3720,20,05-01-25,2465,17,Netflix,Debit Card,split with friend
+3284,17,05-01-25,12000,11,Amazon,UPI,
+2013,11,05-01-25,1203,12,Ola,UPI,
+3799,20,05-01-25,1972,10,Amazon,Cash,
+875,5,05-01-25,4037,21,IRCTC,Credit Card,
+3358,18,05-01-25,538,13,MedPlus,Cash,
+263,2,05-01-25,423,13,Flipkart,Credit Card,
+2941,16,05-01-25,4835,18,Uber,UPI,
+1871,11,05-01-25,3862,18,Spotify,Debit Card,
+1432,8,05-01-25,1082,16,BigBazaar,Debit Card,
+2713,15,05-01-25,13198,22,Spotify,Credit Card,split with friend
+2640,14,05-01-25,499,20,Amazon,UPI,
+3634,20,05-01-25,5483,18,Zomato,Debit Card,
+3210,17,05-01-25,2040,17,Flipkart,UPI,
+1285,7,06-01-25,1074,12,GymPlus,Cash,
+2989,16,06-01-25,961,12,Zomato,Cash,
+3682,20,06-01-25,299,20,Swiggy,Debit Card,split with friend
+1958,11,06-01-25,589,13,Ola,UPI,
+74,1,06-01-25,10000,11,Amazon,Credit Card,
+955,6,06-01-25,1043,12,MedPlus,Cash,
+77,1,06-01-25,3497,17,Swiggy,Cash,
+3259,17,07-01-25,1563,13,Spotify,Cash,
+2826,16,07-01-25,6843,18,GymPlus,Credit Card,
+2546,14,07-01-25,2363,16,Swiggy,Cash,
+175,2,07-01-25,18000,11,IRCTC,Debit Card,split with friend
+2442,13,07-01-25,1307,13,Spotify,Credit Card,
+607,4,07-01-25,7096,18,MedPlus,Credit Card,
+565,4,07-01-25,1117,12,MedPlus,Credit Card,
+3094,17,07-01-25,1573,13,MedPlus,Credit Card,
+1093,7,07-01-25,531,16,Flipkart,Debit Card,
+2882,16,07-01-25,20000,11,Ola,UPI,
+3220,17,07-01-25,10000,11,MedPlus,Credit Card,
+1328,8,07-01-25,110,15,Flipkart,UPI,
+305,3,07-01-25,3592,21,Netflix,Cash,
+1392,8,07-01-25,4013,19,Zomato,Debit Card,split with friend
+93,1,08-01-25,8160,18,Flipkart,Cash,
+3078,17,08-01-25,1173,12,Zomato,Cash,split with friend
+609,4,08-01-25,1003,14,Amazon,Debit Card,
+718,4,08-01-25,20000,11,Netflix,Debit Card,split with friend
+1129,7,08-01-25,528,19,Ola,UPI,
+2759,15,09-01-25,2496,10,GymPlus,Credit Card,
+3188,17,09-01-25,6718,18,Ola,Debit Card,
+3824,20,09-01-25,809,14,Uber,Cash,
+2828,16,09-01-25,2404,10,Zomato,Debit Card,split with friend
+2108,12,09-01-25,199,20,Zomato,Credit Card,
+1270,7,09-01-25,2997,18,IRCTC,UPI,
+3746,20,09-01-25,3737,18,Spotify,UPI,
+2646,14,09-01-25,877,13,Uber,Cash,
+1956,11,09-01-25,3894,10,Amazon,Debit Card,
+1128,7,09-01-25,1628,17,Spotify,Debit Card,
+2507,14,10-01-25,5379,22,GymPlus,Credit Card,
+3161,17,10-01-25,5222,10,Swiggy,Cash,
+2327,13,10-01-25,3419,17,Zomato,UPI,
+46,1,10-01-25,3745,10,Uber,UPI,
+1722,10,10-01-25,254,17,BigBazaar,Credit Card,split with friend
+1754,10,10-01-25,1056,15,Flipkart,Debit Card,
+2952,16,10-01-25,1426,15,MedPlus,Credit Card,
+206,2,11-01-25,3899,21,Swiggy,UPI,
+2537,14,11-01-25,2111,21,MedPlus,Cash,
+396,3,11-01-25,299,20,GymPlus,Credit Card,
+2004,11,11-01-25,2206,17,GymPlus,Cash,
+865,5,11-01-25,3649,19,IRCTC,Cash,split with friend
+2979,16,11-01-25,8157,22,Uber,Credit Card,
+2966,16,11-01-25,1946,16,Amazon,Credit Card,
+1411,8,11-01-25,1131,15,Swiggy,Cash,
+56,1,11-01-25,721,15,Swiggy,Cash,
+3187,17,11-01-25,2068,17,Amazon,Debit Card,split with friend
+706,4,12-01-25,1174,12,Flipkart,Cash,split with friend
+3447,18,12-01-25,1546,15,Amazon,Debit Card,
+2333,13,12-01-25,920,14,BigBazaar,Debit Card,
+11,1,12-01-25,598,12,Ola,Debit Card,
+1747,10,12-01-25,475,13,Uber,UPI,
+1650,10,12-01-25,476,14,GymPlus,Debit Card,
+2073,12,12-01-25,2417,21,BigBazaar,Debit Card,
+2552,14,12-01-25,199,20,Netflix,UPI,
+2936,16,13-01-25,1953,16,Spotify,Debit Card,
+1788,10,13-01-25,214,16,Flipkart,Cash,
+3196,17,13-01-25,316,21,BigBazaar,Credit Card,
+3197,17,13-01-25,10000,11,Spotify,UPI,
+2226,12,13-01-25,2676,10,Zomato,UPI,split with friend
+227,2,13-01-25,3468,10,Ola,Credit Card,
+2229,12,13-01-25,478,12,MedPlus,Debit Card,
+360,3,13-01-25,1060,16,Spotify,Credit Card,split with friend
+2944,16,14-01-25,10000,11,Spotify,Credit Card,
+858,5,14-01-25,453,12,Uber,Credit Card,split with friend
+2760,15,14-01-25,199,20,Amazon,UPI,
+510,3,14-01-25,7816,18,MedPlus,Debit Card,
+63,1,14-01-25,20000,11,Amazon,Debit Card,
+2611,14,14-01-25,499,20,Spotify,UPI,split with friend
+1904,11,14-01-25,2490,19,IRCTC,UPI,split with friend
+1361,8,14-01-25,15000,11,Amazon,Cash,
+3198,17,14-01-25,4819,10,BigBazaar,Debit Card,
+2769,15,14-01-25,1011,18,Uber,Debit Card,
+3711,20,14-01-25,987,16,Ola,Credit Card,split with friend
+1699,10,14-01-25,3967,19,MedPlus,Credit Card,
+501,3,15-01-25,1104,14,Flipkart,Cash,
+2838,16,15-01-25,4016,18,Netflix,Cash,split with friend
+3442,18,15-01-25,2699,17,GymPlus,Credit Card,split with friend
+521,3,15-01-25,373,12,Netflix,Cash,split with friend
+15,1,15-01-25,526,15,Swiggy,Credit Card,
+2968,16,15-01-25,3396,21,Swiggy,Cash,split with friend
+1528,9,15-01-25,4416,10,Uber,UPI,split with friend
+73,1,15-01-25,12000,11,BigBazaar,Debit Card,
+549,4,15-01-25,1417,13,BigBazaar,Credit Card,split with friend
+1443,8,15-01-25,6230,18,Uber,UPI,
+2409,13,15-01-25,2806,10,Spotify,UPI,split with friend
+3460,18,15-01-25,3163,21,IRCTC,Cash,
+3679,20,15-01-25,5496,18,Spotify,UPI,split with friend
+3525,19,15-01-25,1054,13,Netflix,Credit Card,
+795,5,15-01-25,499,20,Flipkart,Cash,
+1334,8,15-01-25,2306,10,IRCTC,Debit Card,
+2750,15,15-01-25,2641,19,IRCTC,Credit Card,split with friend
+2734,15,16-01-25,13439,22,IRCTC,UPI,
+1909,11,16-01-25,1383,15,MedPlus,Credit Card,
+2992,16,16-01-25,1019,13,Spotify,Debit Card,split with friend
+1155,7,16-01-25,2704,21,GymPlus,UPI,
+457,3,16-01-25,345,19,IRCTC,UPI,split with friend
+1407,8,16-01-25,1051,13,Spotify,Debit Card,
+1537,9,16-01-25,103,15,Amazon,Cash,split with friend
+1374,8,16-01-25,1374,15,Flipkart,Credit Card,
+1329,8,16-01-25,1172,13,Zomato,Credit Card,
+1683,10,16-01-25,499,20,Swiggy,UPI,
+2523,14,16-01-25,3191,21,Uber,Cash,
+1119,7,16-01-25,2429,10,IRCTC,Cash,
+393,3,17-01-25,20000,11,Netflix,Debit Card,
+1198,7,17-01-25,4375,19,Netflix,Credit Card,
+1940,11,17-01-25,499,20,Uber,UPI,
+1088,7,17-01-25,2808,19,Zomato,Cash,
+3761,20,17-01-25,1047,17,Uber,UPI,split with friend
+3037,16,17-01-25,2485,21,Flipkart,Credit Card,
+1438,8,17-01-25,6084,22,Ola,Debit Card,
+2126,12,17-01-25,12483,22,MedPlus,UPI,
+1688,10,17-01-25,199,20,BigBazaar,Cash,
+2693,15,17-01-25,3570,10,Netflix,Cash,
+1794,10,17-01-25,779,13,Uber,Credit Card,
+2815,15,18-01-25,543,12,IRCTC,Cash,
+3487,18,18-01-25,1190,14,Amazon,Cash,split with friend
+2183,12,18-01-25,18000,11,Amazon,Cash,
+2266,13,18-01-25,499,20,Swiggy,Credit Card,
+1944,11,18-01-25,1335,21,Amazon,Credit Card,
+2983,16,18-01-25,751,15,Spotify,Debit Card,
+2314,13,18-01-25,2650,21,Netflix,Credit Card,
+980,6,18-01-25,1080,14,Ola,Credit Card,
+2651,14,18-01-25,1041,15,BigBazaar,Debit Card,
+722,4,18-01-25,841,13,IRCTC,Credit Card,
+2053,11,18-01-25,15000,11,Swiggy,UPI,split with friend
+2597,14,19-01-25,1207,12,IRCTC,Debit Card,split with friend
+1190,7,19-01-25,3605,10,Ola,UPI,
+3511,18,19-01-25,5386,22,MedPlus,UPI,
+2880,16,19-01-25,1093,12,GymPlus,UPI,
+3619,19,19-01-25,2346,10,Amazon,Credit Card,
+1400,8,19-01-25,12000,11,Swiggy,Debit Card,
+505,3,19-01-25,7669,18,MedPlus,Debit Card,split with friend
+2864,16,19-01-25,3851,18,Amazon,Credit Card,
+370,3,19-01-25,3718,18,Uber,Credit Card,
+3550,19,19-01-25,842,17,Uber,Cash,
+1954,11,19-01-25,12000,11,Amazon,Cash,
+884,5,20-01-25,1924,13,Uber,Cash,
+2077,12,20-01-25,3470,17,Uber,UPI,
+1782,10,20-01-25,299,20,Spotify,Debit Card,
+259,2,20-01-25,4720,10,Netflix,Credit Card,
+3103,17,20-01-25,1138,15,Uber,Credit Card,
+1968,11,20-01-25,15000,11,Netflix,Debit Card,
+1831,11,20-01-25,3135,21,MedPlus,Cash,split with friend
+2506,14,21-01-25,509,15,BigBazaar,Cash,
+2323,13,21-01-25,8230,22,Ola,Cash,
+3434,18,21-01-25,302,17,Zomato,Debit Card,split with friend
+2009,11,21-01-25,15000,11,Netflix,UPI,
+617,4,21-01-25,1118,14,Spotify,Debit Card,split with friend
+3595,19,21-01-25,1559,13,Amazon,Credit Card,split with friend
+1826,11,21-01-25,387,13,MedPlus,Debit Card,
+3362,18,21-01-25,1235,12,Spotify,UPI,split with friend
+1239,7,22-01-25,10000,11,Swiggy,Cash,split with friend
+1238,7,22-01-25,299,20,IRCTC,Cash,
+2197,12,22-01-25,515,15,Spotify,Debit Card,
+241,2,22-01-25,2056,18,Ola,UPI,
+1900,11,22-01-25,3693,18,Netflix,Credit Card,
+3292,18,22-01-25,1505,13,Amazon,Debit Card,
+553,4,22-01-25,12000,11,Swiggy,Cash,split with friend
+1451,8,22-01-25,266,13,Spotify,Cash,
+740,4,22-01-25,904,15,Swiggy,Credit Card,
+2797,15,22-01-25,2920,18,Netflix,Cash,
+3673,20,22-01-25,6090,10,GymPlus,Cash,
+3172,17,22-01-25,1154,16,GymPlus,Credit Card,
+2726,15,22-01-25,999,20,Uber,Credit Card,
+830,5,22-01-25,12000,11,Flipkart,UPI,split with friend
+3322,18,23-01-25,3871,21,Flipkart,Cash,
+2757,15,23-01-25,1215,12,Amazon,Debit Card,split with friend
+406,3,23-01-25,3756,17,IRCTC,Debit Card,
+420,3,23-01-25,1366,15,MedPlus,UPI,
+2657,14,23-01-25,999,20,GymPlus,Cash,
+303,3,23-01-25,8516,22,Spotify,Credit Card,
+1134,7,23-01-25,135,14,Spotify,Cash,
+908,6,24-01-25,1248,19,Amazon,Debit Card,split with friend
+3499,18,24-01-25,335,14,Spotify,Debit Card,split with friend
+888,5,24-01-25,4577,18,MedPlus,UPI,
+896,6,24-01-25,1655,16,Amazon,Debit Card,split with friend
+3131,17,24-01-25,4379,10,BigBazaar,Debit Card,split with friend
+516,3,24-01-25,3261,18,Uber,Cash,
+1367,8,24-01-25,4084,18,Amazon,UPI,
+275,2,25-01-25,1088,15,Zomato,Cash,split with friend
+1,1,25-01-25,999,20,GymPlus,UPI,
+2308,13,25-01-25,863,14,Uber,Cash,
+2334,13,25-01-25,1222,16,Ola,Credit Card,split with friend
+2354,13,25-01-25,2329,10,Spotify,Credit Card,split with friend
+1065,7,25-01-25,12000,11,Flipkart,Credit Card,
+904,6,25-01-25,20000,11,GymPlus,UPI,
+2868,16,25-01-25,2767,21,Flipkart,Cash,split with friend
+3075,17,25-01-25,199,20,IRCTC,Debit Card,
+59,1,25-01-25,794,12,BigBazaar,UPI,split with friend
+3226,17,26-01-25,505,12,IRCTC,UPI,
+1441,8,26-01-25,514,14,Ola,Cash,
+3063,17,26-01-25,299,20,Uber,UPI,
+3256,17,26-01-25,8116,18,Zomato,Debit Card,
+802,5,26-01-25,199,20,Ola,UPI,
+3798,20,26-01-25,2370,17,Zomato,Debit Card,
+145,2,26-01-25,170,14,IRCTC,UPI,
+3395,18,27-01-25,1088,14,IRCTC,Debit Card,
+3412,18,27-01-25,1215,13,Amazon,UPI,split with friend
+1439,8,27-01-25,14575,22,Amazon,Credit Card,split with friend
+3374,18,27-01-25,18000,11,Amazon,UPI,
+2573,14,27-01-25,15000,11,Ola,UPI,
+1934,11,27-01-25,519,14,MedPlus,Debit Card,
+774,5,27-01-25,2508,19,Zomato,Cash,
+1529,9,27-01-25,310,15,Spotify,Debit Card,split with friend
+460,3,27-01-25,1439,21,Uber,Credit Card,
+1679,10,27-01-25,4187,19,GymPlus,Debit Card,
+3352,18,27-01-25,299,20,Zomato,UPI,
+2217,12,27-01-25,1330,17,GymPlus,Credit Card,
+1208,7,27-01-25,299,20,BigBazaar,Debit Card,split with friend
+3718,20,27-01-25,836,16,MedPlus,Cash,split with friend
+433,3,27-01-25,1268,14,Amazon,Cash,
+446,3,28-01-25,645,14,Uber,Cash,
+1366,8,28-01-25,2975,21,Ola,Credit Card,
+3592,19,28-01-25,299,20,Spotify,Cash,
+3545,19,28-01-25,3014,17,Uber,UPI,
+162,2,28-01-25,1293,16,Zomato,Credit Card,
+2441,13,28-01-25,8176,22,GymPlus,Debit Card,
+2165,12,28-01-25,1455,12,Flipkart,Credit Card,
+2628,14,28-01-25,11171,22,Flipkart,UPI,
+1118,7,28-01-25,15880,22,Flipkart,UPI,
+3377,18,28-01-25,884,14,Swiggy,Cash,
+2856,16,29-01-25,4023,21,Amazon,Debit Card,
+3653,20,29-01-25,4824,18,GymPlus,Cash,split with friend
+2243,12,29-01-25,744,14,IRCTC,Cash,
+3609,19,29-01-25,4788,22,GymPlus,UPI,
+3497,18,29-01-25,2096,21,BigBazaar,Credit Card,split with friend
+1147,7,29-01-25,1655,16,Swiggy,Debit Card,
+3810,20,29-01-25,999,20,Zomato,Credit Card,
+467,3,29-01-25,1112,15,IRCTC,Debit Card,
+2771,15,29-01-25,1154,15,Swiggy,Credit Card,
+1002,6,29-01-25,8391,18,Netflix,Debit Card,split with friend
+2276,13,29-01-25,499,20,IRCTC,UPI,
+2018,11,29-01-25,18000,11,MedPlus,UPI,
+287,2,29-01-25,2971,19,BigBazaar,Cash,
+2965,16,30-01-25,838,14,Ola,Debit Card,
+3503,18,30-01-25,1745,21,IRCTC,Cash,
+3432,18,30-01-25,906,15,BigBazaar,Debit Card,
+566,4,30-01-25,1135,15,Netflix,Debit Card,
+742,5,30-01-25,299,20,Flipkart,Cash,
+3428,18,30-01-25,396,14,Spotify,UPI,split with friend
+2133,12,30-01-25,199,20,Amazon,UPI,
+2375,13,30-01-25,1548,15,Flipkart,Debit Card,
+2843,16,30-01-25,69,14,Ola,Cash,
+3174,17,30-01-25,2292,16,Ola,Cash,split with friend
+1617,9,30-01-25,1635,10,Spotify,Cash,
+622,4,31-01-25,1988,19,MedPlus,Debit Card,
+3139,17,31-01-25,17462,22,Zomato,Cash,
+3199,17,31-01-25,759,12,Swiggy,UPI,
+2574,14,31-01-25,2559,21,Zomato,UPI,split with friend
+1891,11,31-01-25,653,16,Spotify,Debit Card,
+131,2,31-01-25,1603,16,IRCTC,UPI,
+1873,11,31-01-25,1135,15,Swiggy,Credit Card,
+791,5,31-01-25,499,20,Flipkart,Debit Card,split with friend
+2284,13,31-01-25,3750,18,Spotify,Credit Card,
+3812,20,31-01-25,299,20,MedPlus,Debit Card,
+2978,16,31-01-25,1001,14,IRCTC,Credit Card,split with friend
+229,2,01-02-25,3159,17,Spotify,Cash,
+3334,18,01-02-25,6730,19,Zomato,Cash,
+381,3,01-02-25,299,20,Flipkart,UPI,
+3557,19,01-02-25,1126,14,GymPlus,Debit Card,
+1354,8,01-02-25,503,14,MedPlus,Cash,
+3652,20,01-02-25,1122,15,Netflix,Credit Card,
+2151,12,02-02-25,454,12,MedPlus,Credit Card,
+1579,9,02-02-25,2629,19,BigBazaar,UPI,
+3151,17,02-02-25,9882,22,GymPlus,Debit Card,
+701,4,02-02-25,501,15,Swiggy,Debit Card,split with friend
+3594,19,02-02-25,766,13,Amazon,Debit Card,
+946,6,02-02-25,432,12,MedPlus,Cash,
+2280,13,02-02-25,1296,16,GymPlus,Credit Card,split with friend
+3725,20,02-02-25,3150,16,IRCTC,Debit Card,
+1043,6,02-02-25,10000,11,IRCTC,UPI,
+2536,14,02-02-25,2545,21,Ola,Debit Card,
+425,3,02-02-25,1264,16,Uber,Debit Card,
+1622,9,02-02-25,2228,17,GymPlus,UPI,
+902,6,02-02-25,2731,10,Amazon,Debit Card,
+2522,14,02-02-25,8731,22,BigBazaar,Cash,
+2075,12,03-02-25,1434,22,IRCTC,Cash,split with friend
+2227,12,03-02-25,963,13,Uber,Debit Card,
+362,3,03-02-25,4530,19,Swiggy,Cash,split with friend
+1778,10,03-02-25,2560,17,MedPlus,Debit Card,
+1036,6,03-02-25,882,13,Swiggy,Cash,
+3693,20,03-02-25,793,16,Ola,UPI,
+2361,13,03-02-25,1310,21,Zomato,Cash,
+3239,17,03-02-25,988,13,MedPlus,UPI,
+3081,17,03-02-25,1305,12,Uber,Credit Card,
+3208,17,03-02-25,970,13,BigBazaar,Credit Card,
+3134,17,03-02-25,4037,10,MedPlus,Cash,
+2967,16,03-02-25,898,14,Uber,Credit Card,
+2961,16,03-02-25,499,20,Flipkart,Cash,
+2585,14,03-02-25,1652,13,Swiggy,Credit Card,
+3140,17,03-02-25,7451,22,BigBazaar,Cash,
+2300,13,03-02-25,2092,16,IRCTC,Cash,
+54,1,03-02-25,3528,10,Flipkart,UPI,split with friend
+2641,14,03-02-25,2760,10,IRCTC,Debit Card,
+3268,17,03-02-25,10000,11,Swiggy,Cash,
+1964,11,04-02-25,5274,22,IRCTC,UPI,split with friend
+3261,17,04-02-25,9235,22,IRCTC,UPI,split with friend
+2586,14,04-02-25,7856,22,Swiggy,Credit Card,split with friend
+3113,17,04-02-25,4789,10,IRCTC,Cash,
+1266,7,04-02-25,7365,18,Flipkart,Debit Card,
+3118,17,04-02-25,1178,15,IRCTC,Credit Card,
+525,3,04-02-25,695,14,Flipkart,Debit Card,
+3625,20,04-02-25,18000,11,Amazon,Cash,
+2920,16,04-02-25,3254,18,MedPlus,Credit Card,
+2079,12,04-02-25,999,20,MedPlus,UPI,split with friend
+2668,14,04-02-25,3952,17,BigBazaar,Credit Card,
+775,5,04-02-25,10865,22,Swiggy,Debit Card,
+29,1,05-02-25,1233,10,Uber,Cash,split with friend
+1102,7,05-02-25,875,13,IRCTC,Cash,
+3047,16,05-02-25,975,12,Flipkart,UPI,
+942,6,05-02-25,1043,13,IRCTC,Cash,
+926,6,05-02-25,5836,18,MedPlus,UPI,
+2594,14,05-02-25,1357,13,GymPlus,Cash,
+3655,20,05-02-25,2880,19,Flipkart,Debit Card,
+2342,13,05-02-25,517,12,Amazon,UPI,
+731,4,05-02-25,4571,18,IRCTC,Debit Card,split with friend
+1547,9,05-02-25,4070,10,Zomato,Debit Card,
+1247,7,05-02-25,2101,18,Swiggy,Debit Card,
+2264,13,05-02-25,2663,21,Netflix,UPI,
+1463,8,05-02-25,905,14,Ola,Debit Card,
+255,2,05-02-25,5654,19,Amazon,UPI,
+1337,8,05-02-25,4503,19,Zomato,Credit Card,
+1327,8,05-02-25,904,12,Ola,Debit Card,
+1268,7,06-02-25,12319,22,Swiggy,Credit Card,
+2392,13,06-02-25,1201,16,Flipkart,Cash,
+3714,20,06-02-25,477,13,Netflix,Debit Card,
+9,1,06-02-25,5627,18,IRCTC,Cash,
+2677,15,06-02-25,1780,17,Flipkart,Credit Card,
+604,4,06-02-25,649,15,Netflix,UPI,
+2466,13,06-02-25,4014,10,Ola,Credit Card,
+3023,16,06-02-25,1529,17,Spotify,UPI,
+3101,17,06-02-25,1844,13,GymPlus,Cash,
+112,2,07-02-25,5273,18,Amazon,Cash,
+470,3,07-02-25,1182,13,Uber,Credit Card,
+2939,16,07-02-25,1043,12,GymPlus,UPI,
+1647,9,07-02-25,736,15,Amazon,UPI,split with friend
+1717,10,07-02-25,3923,10,IRCTC,UPI,
+1746,10,07-02-25,975,12,Amazon,Credit Card,
+1214,7,07-02-25,1511,19,Zomato,Cash,
+3408,18,07-02-25,1000,14,Amazon,Cash,split with friend
+2330,13,07-02-25,7291,22,Swiggy,Debit Card,
+1426,8,07-02-25,278,14,Flipkart,Debit Card,
+24,1,08-02-25,1079,15,MedPlus,Debit Card,split with friend
+2549,14,08-02-25,5200,10,BigBazaar,Credit Card,
+1109,7,08-02-25,1375,16,Netflix,Cash,
+3843,20,08-02-25,4603,22,MedPlus,UPI,
+138,2,08-02-25,413,21,Swiggy,UPI,
+1240,7,08-02-25,514,14,GymPlus,UPI,
+407,3,08-02-25,2219,21,Spotify,UPI,
+349,3,08-02-25,18000,11,Zomato,UPI,
+293,2,08-02-25,5708,19,Ola,UPI,
+1908,11,08-02-25,1133,19,Netflix,Cash,
+1226,7,08-02-25,5363,18,Ola,UPI,
+2736,15,08-02-25,2793,10,Zomato,Credit Card,
+1300,8,09-02-25,12000,11,Netflix,UPI,
+2368,13,09-02-25,4754,19,GymPlus,UPI,
+1720,10,09-02-25,3665,22,GymPlus,Credit Card,
+1822,10,09-02-25,2141,22,Netflix,UPI,split with friend
+678,4,09-02-25,465,14,Amazon,UPI,split with friend
+2724,15,09-02-25,1218,14,Zomato,UPI,split with friend
+1186,7,09-02-25,1865,16,Ola,Credit Card,
+951,6,10-02-25,1483,15,GymPlus,UPI,
+1864,11,10-02-25,624,17,GymPlus,Cash,
+1878,11,10-02-25,2026,13,Netflix,Debit Card,
+1983,11,10-02-25,10000,11,Flipkart,Debit Card,split with friend
+3125,17,10-02-25,299,20,Swiggy,UPI,
+2191,12,10-02-25,999,20,Spotify,Cash,split with friend
+3012,16,10-02-25,2174,17,Uber,Debit Card,
+976,6,10-02-25,7674,22,Zomato,Cash,
+3105,17,10-02-25,3679,21,Ola,Credit Card,
+3611,19,10-02-25,3412,10,Flipkart,Debit Card,
+3270,17,10-02-25,999,20,Netflix,Debit Card,split with friend
+1044,6,10-02-25,1005,13,Zomato,Credit Card,
+1241,7,11-02-25,10000,11,Zomato,Credit Card,split with friend
+3164,17,11-02-25,8151,22,Amazon,UPI,
+2348,13,11-02-25,3103,10,Uber,Debit Card,split with friend
+1780,10,11-02-25,655,14,Ola,UPI,
+1224,7,11-02-25,770,12,Spotify,Cash,
+1485,8,11-02-25,628,19,Zomato,Credit Card,split with friend
+506,3,11-02-25,4269,17,MedPlus,Cash,
+1419,8,11-02-25,5930,19,Ola,UPI,
+1920,11,11-02-25,3667,19,Spotify,Cash,
+1179,7,11-02-25,2114,21,MedPlus,UPI,
+2438,13,11-02-25,7511,22,GymPlus,UPI,
+333,3,11-02-25,7364,22,Netflix,UPI,
+1820,10,12-02-25,6138,18,Flipkart,Debit Card,
+2995,16,12-02-25,1093,21,Flipkart,Cash,
+364,3,12-02-25,1250,15,Amazon,Credit Card,split with friend
+3383,18,12-02-25,3880,10,Ola,UPI,split with friend
+1994,11,12-02-25,867,16,Flipkart,Credit Card,split with friend
+2653,14,12-02-25,4388,21,IRCTC,Debit Card,
+3692,20,12-02-25,8409,18,BigBazaar,Debit Card,
+2626,14,12-02-25,5189,18,MedPlus,Cash,
+1245,7,12-02-25,10194,22,Swiggy,UPI,
+2120,12,12-02-25,4628,18,Amazon,UPI,
+2146,12,12-02-25,3692,17,IRCTC,UPI,
+234,2,12-02-25,3736,21,Uber,Cash,
+1126,7,13-02-25,1428,15,Amazon,Credit Card,
+3802,20,13-02-25,12061,22,Flipkart,UPI,
+2297,13,13-02-25,4198,21,Flipkart,UPI,
+2352,13,13-02-25,3047,19,Swiggy,Credit Card,
+1111,7,13-02-25,2417,17,Netflix,Debit Card,
+2356,13,13-02-25,1233,14,Flipkart,Credit Card,
+3385,18,13-02-25,160,13,Flipkart,Credit Card,
+2616,14,13-02-25,598,14,GymPlus,Debit Card,
+2404,13,13-02-25,2793,21,Netflix,Credit Card,
+115,2,13-02-25,799,16,Amazon,Debit Card,split with friend
+2563,14,13-02-25,2727,10,Zomato,UPI,
+3148,17,13-02-25,3004,19,BigBazaar,UPI,
+2303,13,14-02-25,1479,13,MedPlus,Cash,
+1166,7,14-02-25,912,16,Netflix,Credit Card,
+3688,20,14-02-25,652,12,IRCTC,UPI,
+3801,20,14-02-25,847,21,Flipkart,UPI,
+1949,11,14-02-25,11442,22,Netflix,Debit Card,split with friend
+198,2,14-02-25,707,14,Uber,Cash,
+3815,20,14-02-25,20000,11,BigBazaar,Cash,
+581,4,14-02-25,144,12,Swiggy,Credit Card,
+765,5,14-02-25,2392,10,Spotify,Cash,
+3382,18,14-02-25,1376,12,GymPlus,Debit Card,split with friend
+296,3,15-02-25,890,15,Spotify,Debit Card,split with friend
+3074,17,15-02-25,455,14,Amazon,Debit Card,
+1972,11,15-02-25,3572,10,Uber,Credit Card,
+3805,20,15-02-25,20000,11,Amazon,UPI,
+3119,17,15-02-25,12000,11,GymPlus,Cash,
+1158,7,15-02-25,828,15,Flipkart,UPI,split with friend
+2927,16,15-02-25,1914,16,Amazon,Credit Card,split with friend
+88,1,15-02-25,2370,21,Spotify,UPI,
+1237,7,15-02-25,2425,21,Spotify,Credit Card,
+2792,15,15-02-25,16577,22,Spotify,Cash,
+2642,14,15-02-25,299,20,IRCTC,Credit Card,
+3069,17,15-02-25,922,16,BigBazaar,Credit Card,
+3096,17,15-02-25,3634,19,GymPlus,Credit Card,
+3027,16,15-02-25,1145,14,Flipkart,UPI,
+1757,10,15-02-25,4243,18,Netflix,Credit Card,
+2706,15,16-02-25,6469,18,GymPlus,Debit Card,
+262,2,16-02-25,2212,17,Swiggy,Debit Card,split with friend
+68,1,16-02-25,718,13,IRCTC,Debit Card,split with friend
+51,1,16-02-25,4217,18,Amazon,Credit Card,
+366,3,16-02-25,1003,14,Amazon,Credit Card,
+3180,17,16-02-25,1847,16,BigBazaar,Credit Card,
+1281,7,16-02-25,6723,22,MedPlus,UPI,split with friend
+3368,18,17-02-25,558,19,Netflix,Credit Card,
+2071,12,17-02-25,2111,17,Netflix,UPI,
+3846,20,17-02-25,2380,22,Uber,UPI,
+1290,7,17-02-25,7323,18,Zomato,UPI,
+1059,7,17-02-25,499,20,Netflix,Cash,
+3333,18,17-02-25,3267,22,Spotify,UPI,
+1342,8,18-02-25,5255,22,Spotify,Debit Card,
+265,2,18-02-25,2261,19,IRCTC,Credit Card,
+3471,18,18-02-25,2799,10,BigBazaar,Debit Card,
+1309,8,18-02-25,15000,11,BigBazaar,Debit Card,
+2166,12,18-02-25,755,14,Netflix,Credit Card,
+429,3,18-02-25,434,19,Netflix,Credit Card,
+3193,17,18-02-25,1220,14,BigBazaar,Cash,split with friend
+1513,9,18-02-25,1686,10,Swiggy,Credit Card,split with friend
+2419,13,18-02-25,199,20,Spotify,Credit Card,
+27,1,18-02-25,5299,19,IRCTC,Credit Card,
+2452,13,18-02-25,499,20,GymPlus,Credit Card,
+1251,7,19-02-25,2555,10,Flipkart,Credit Card,split with friend
+1817,10,19-02-25,1273,16,MedPlus,Debit Card,
+442,3,19-02-25,18000,11,Spotify,Debit Card,
+1577,9,19-02-25,4019,18,MedPlus,Debit Card,
+3360,18,19-02-25,15000,11,Uber,Debit Card,split with friend
+491,3,19-02-25,335,18,GymPlus,UPI,split with friend
+2093,12,19-02-25,636,12,IRCTC,Debit Card,
+2814,15,19-02-25,711,13,MedPlus,Debit Card,
+247,2,19-02-25,2408,17,Spotify,UPI,
+39,1,19-02-25,1249,15,Swiggy,UPI,
+103,1,19-02-25,2753,19,Zomato,Credit Card,
+2647,14,19-02-25,1992,17,Netflix,UPI,
+529,3,19-02-25,1191,15,IRCTC,Credit Card,
+1457,8,20-02-25,4254,21,Zomato,Debit Card,
+903,6,20-02-25,992,12,Spotify,Credit Card,
+2744,15,20-02-25,3979,18,Ola,Debit Card,split with friend
+2577,14,20-02-25,629,15,IRCTC,Credit Card,split with friend
+2307,13,20-02-25,1081,21,Amazon,Credit Card,
+2679,15,20-02-25,1006,14,Uber,Debit Card,
+2325,13,20-02-25,1846,21,Flipkart,Debit Card,
+2184,12,20-02-25,4242,10,MedPlus,Credit Card,
+663,4,20-02-25,1389,17,MedPlus,UPI,
+3162,17,20-02-25,909,12,Spotify,UPI,split with friend
+3554,19,20-02-25,943,15,Uber,UPI,
+1042,6,20-02-25,12291,22,Flipkart,Debit Card,
+2391,13,21-02-25,926,13,MedPlus,Credit Card,
+363,3,21-02-25,1227,16,Swiggy,Debit Card,
+3191,17,21-02-25,1793,13,Spotify,Debit Card,
+2186,12,21-02-25,2611,21,Flipkart,UPI,
+1459,8,21-02-25,1205,15,Uber,UPI,split with friend
+1612,9,21-02-25,172,14,Spotify,Cash,
+1711,10,21-02-25,3500,10,Ola,Debit Card,split with friend
+626,4,21-02-25,8253,22,Zomato,UPI,split with friend
+3614,19,21-02-25,1462,16,MedPlus,Debit Card,split with friend
+157,2,21-02-25,199,20,Flipkart,Debit Card,
+248,2,21-02-25,4228,18,BigBazaar,Debit Card,
+2789,15,21-02-25,3254,19,GymPlus,UPI,
+3796,20,21-02-25,3375,21,Netflix,Debit Card,
+2357,13,21-02-25,10500,22,Zomato,Cash,
+2708,15,22-02-25,2347,16,MedPlus,Credit Card,
+748,5,22-02-25,10000,11,MedPlus,Credit Card,
+142,2,22-02-25,6852,22,Spotify,Debit Card,
+1838,11,22-02-25,3983,18,Swiggy,Credit Card,split with friend
+756,5,22-02-25,499,20,IRCTC,UPI,
+596,4,22-02-25,1088,15,Ola,Credit Card,
+1073,7,22-02-25,3514,10,Spotify,UPI,
+2142,12,22-02-25,5709,22,BigBazaar,UPI,
+1515,9,22-02-25,3405,19,MedPlus,UPI,
+3254,17,22-02-25,2240,16,Flipkart,Cash,split with friend
+3797,20,22-02-25,3008,17,IRCTC,Cash,split with friend
+318,3,23-02-25,199,20,Flipkart,Cash,
+286,2,23-02-25,12000,11,Netflix,Cash,
+1997,11,23-02-25,5458,18,Spotify,UPI,
+1815,10,23-02-25,656,14,Ola,Cash,
+3759,20,23-02-25,445,15,Swiggy,Credit Card,
+3732,20,23-02-25,11958,22,Uber,Credit Card,
+1495,9,23-02-25,1081,15,Flipkart,Debit Card,
+1003,6,23-02-25,999,20,Netflix,Debit Card,
+1914,11,23-02-25,822,12,GymPlus,Cash,
+2376,13,23-02-25,461,14,Amazon,UPI,
+850,5,23-02-25,2963,10,Netflix,Cash,
+330,3,23-02-25,999,20,Uber,Credit Card,
+3826,20,23-02-25,3900,19,Uber,UPI,
+2520,14,23-02-25,1133,15,MedPlus,UPI,
+618,4,24-02-25,956,13,Zomato,Cash,
+3392,18,24-02-25,825,14,Uber,Cash,
+1256,7,24-02-25,503,12,MedPlus,Credit Card,
+982,6,24-02-25,4761,10,GymPlus,UPI,
+3288,18,24-02-25,1056,12,Swiggy,Debit Card,split with friend
+1993,11,24-02-25,3416,10,Spotify,UPI,
+2773,15,24-02-25,20000,11,Netflix,UPI,
+376,3,24-02-25,1956,17,MedPlus,UPI,
+3283,17,24-02-25,1037,12,Ola,Cash,
+548,4,24-02-25,12476,22,IRCTC,Credit Card,
+2709,15,24-02-25,499,20,Spotify,Credit Card,
+1444,8,24-02-25,777,14,Swiggy,Debit Card,split with friend
+106,1,24-02-25,906,12,Uber,Debit Card,
+962,6,24-02-25,936,14,Uber,Debit Card,split with friend
+1074,7,25-02-25,12000,11,Flipkart,Cash,
+2446,13,25-02-25,3985,18,Swiggy,Credit Card,
+848,5,25-02-25,1146,14,Flipkart,Cash,
+1984,11,25-02-25,10184,22,MedPlus,Cash,split with friend
+2443,13,25-02-25,205,15,Ola,Debit Card,
+894,6,25-02-25,2506,17,Ola,Debit Card,
+3159,17,25-02-25,3838,10,Swiggy,Debit Card,
+3273,17,25-02-25,5680,10,BigBazaar,Credit Card,split with friend
+1726,10,25-02-25,499,20,Zomato,Credit Card,split with friend
+1081,7,25-02-25,2215,19,Netflix,Cash,
+2613,14,25-02-25,7791,22,MedPlus,UPI,split with friend
+2707,15,25-02-25,2068,16,Uber,Cash,
+1527,9,26-02-25,5314,18,Swiggy,UPI,
+1196,7,26-02-25,12000,11,Flipkart,UPI,split with friend
+85,1,26-02-25,1240,16,Amazon,UPI,
+1800,10,26-02-25,12000,11,Swiggy,Cash,
+3076,17,26-02-25,730,21,IRCTC,Credit Card,
+1244,7,26-02-25,592,13,Zomato,Debit Card,
+3200,17,26-02-25,1520,16,Uber,Credit Card,split with friend
+606,4,26-02-25,1330,18,Ola,Cash,
+2473,14,26-02-25,361,16,Flipkart,Cash,
+3263,17,27-02-25,199,20,GymPlus,Cash,
+1556,9,27-02-25,299,20,Zomato,Debit Card,split with friend
+2589,14,27-02-25,3087,17,BigBazaar,Debit Card,
+2976,16,27-02-25,2090,21,Swiggy,Credit Card,
+800,5,27-02-25,1212,13,Uber,Cash,
+2784,15,27-02-25,1972,18,Spotify,Cash,
+218,2,27-02-25,4083,21,MedPlus,Cash,split with friend
+2899,16,28-02-25,887,14,IRCTC,Credit Card,split with friend
+2258,12,28-02-25,1492,17,GymPlus,Cash,
+665,4,28-02-25,2562,21,Netflix,Credit Card,
+2252,12,28-02-25,3482,17,GymPlus,UPI,
+2605,14,28-02-25,1404,13,Uber,Debit Card,
+1628,9,28-02-25,1193,16,Netflix,Credit Card,split with friend
+3709,20,28-02-25,6689,22,Flipkart,Credit Card,
+1966,11,28-02-25,578,12,GymPlus,Credit Card,
+1866,11,28-02-25,18000,11,Swiggy,UPI,split with friend
+2408,13,28-02-25,3089,10,BigBazaar,Credit Card,split with friend
+352,3,28-02-25,696,14,Swiggy,UPI,
+116,2,28-02-25,1670,19,IRCTC,Debit Card,
+1773,10,28-02-25,1799,17,IRCTC,Credit Card,
+2929,16,28-02-25,999,20,Netflix,UPI,
+489,3,28-02-25,4393,19,Spotify,Credit Card,
+625,4,28-02-25,999,20,Flipkart,Debit Card,
+1775,10,01-03-25,1172,19,IRCTC,Debit Card,
+277,2,01-03-25,531,14,Spotify,Debit Card,split with friend
+3420,18,01-03-25,1114,15,Uber,Debit Card,
+3390,18,01-03-25,1510,17,Spotify,Debit Card,split with friend
+2076,12,01-03-25,781,14,MedPlus,Cash,
+1701,10,01-03-25,18000,11,Zomato,Cash,
+576,4,01-03-25,199,20,Ola,Debit Card,
+3710,20,02-03-25,3232,21,Zomato,UPI,
+3041,16,02-03-25,15000,11,BigBazaar,Debit Card,
+3756,20,02-03-25,3107,17,Amazon,Cash,
+3445,18,03-03-25,20000,11,Ola,Debit Card,split with friend
+1288,7,03-03-25,1076,15,Netflix,UPI,
+1252,7,03-03-25,999,20,Spotify,Cash,
+2064,12,03-03-25,4666,17,Netflix,Debit Card,split with friend
+1079,7,03-03-25,3832,18,MedPlus,UPI,split with friend
+2482,14,03-03-25,220,12,IRCTC,UPI,
+2339,13,03-03-25,11414,22,Ola,Credit Card,split with friend
+340,3,04-03-25,3118,21,Netflix,Credit Card,
+2372,13,04-03-25,18000,11,Netflix,UPI,
+179,2,04-03-25,2574,21,Swiggy,UPI,
+1230,7,04-03-25,15000,11,GymPlus,Debit Card,
+777,5,04-03-25,999,20,Zomato,Debit Card,split with friend
+933,6,04-03-25,2412,17,Zomato,Debit Card,
+3275,17,04-03-25,1201,13,Flipkart,Cash,split with friend
+2434,13,04-03-25,1117,12,BigBazaar,UPI,
+3783,20,04-03-25,12914,22,Netflix,Debit Card,
+3570,19,04-03-25,20000,11,Uber,UPI,
+1369,8,04-03-25,2036,17,MedPlus,Cash,split with friend
+1544,9,04-03-25,2418,19,Ola,Debit Card,
+2008,11,05-03-25,141,14,GymPlus,Credit Card,
+3365,18,05-03-25,2762,21,Netflix,Debit Card,
+3638,20,05-03-25,20000,11,Amazon,Cash,split with friend
+724,4,05-03-25,1223,13,Ola,Cash,split with friend
+2058,12,05-03-25,902,15,Spotify,Cash,
+2688,15,05-03-25,598,14,Swiggy,Credit Card,
+2564,14,05-03-25,999,20,MedPlus,Debit Card,
+1227,7,05-03-25,3080,16,Zomato,UPI,
+2571,14,05-03-25,451,14,Spotify,Debit Card,
+523,3,05-03-25,2066,16,MedPlus,UPI,
+487,3,05-03-25,2950,10,Zomato,UPI,
+1205,7,06-03-25,15000,11,Amazon,UPI,
+2778,15,06-03-25,1371,17,Netflix,UPI,
+306,3,06-03-25,709,12,IRCTC,Debit Card,
+1677,10,06-03-25,2988,17,Netflix,Credit Card,
+2955,16,06-03-25,1180,12,Netflix,Cash,
+3437,18,06-03-25,1429,15,Swiggy,Debit Card,
+129,2,06-03-25,236,12,Swiggy,Credit Card,
+1149,7,06-03-25,4358,18,Zomato,Cash,
+3011,16,06-03-25,2254,19,Flipkart,Credit Card,split with friend
+539,3,06-03-25,778,15,Spotify,UPI,
+1414,8,07-03-25,499,20,Zomato,Cash,
+2103,12,07-03-25,1348,15,Amazon,Cash,
+2125,12,07-03-25,4863,10,IRCTC,Cash,split with friend
+2850,16,07-03-25,4807,18,Flipkart,UPI,split with friend
+377,3,07-03-25,12000,11,Amazon,Credit Card,
+2633,14,07-03-25,1474,17,GymPlus,Cash,
+1551,9,07-03-25,2265,19,Zomato,UPI,
+1075,7,07-03-25,1035,12,BigBazaar,Cash,
+1377,8,07-03-25,1387,16,Ola,Cash,
+3660,20,08-03-25,3890,17,Flipkart,Cash,
+616,4,08-03-25,4146,19,Flipkart,Debit Card,
+463,3,08-03-25,1314,13,Amazon,Debit Card,
+3066,17,08-03-25,1004,16,Ola,Credit Card,
+1651,10,08-03-25,835,15,IRCTC,UPI,
+2652,14,08-03-25,640,15,BigBazaar,UPI,
+3302,18,08-03-25,3109,21,Netflix,UPI,
+311,3,08-03-25,18000,11,Flipkart,Cash,
+312,3,08-03-25,15000,11,IRCTC,Cash,
+315,3,08-03-25,475,12,Swiggy,Cash,
+2931,16,08-03-25,1136,15,Amazon,Credit Card,
+681,4,08-03-25,10000,11,Flipkart,Cash,
+3349,18,08-03-25,20000,11,MedPlus,Credit Card,
+3613,19,08-03-25,1406,13,Amazon,Credit Card,
+2822,15,09-03-25,4882,18,Uber,Debit Card,
+2516,14,09-03-25,2935,10,Zomato,Cash,split with friend
+1120,7,09-03-25,8429,22,Netflix,Debit Card,
+132,2,09-03-25,880,13,Netflix,Debit Card,
+1183,7,09-03-25,501,13,Flipkart,UPI,
+459,3,09-03-25,800,14,Amazon,Credit Card,
+87,1,09-03-25,3653,17,GymPlus,Cash,
+3289,18,09-03-25,1682,17,GymPlus,Credit Card,
+992,6,09-03-25,562,18,Spotify,Debit Card,
+2268,13,09-03-25,555,13,BigBazaar,Debit Card,
+1173,7,10-03-25,16264,22,Zomato,UPI,
+1590,9,10-03-25,2159,18,Ola,Credit Card,split with friend
+1950,11,10-03-25,2468,21,IRCTC,UPI,split with friend
+971,6,10-03-25,2110,16,Spotify,UPI,
+295,3,10-03-25,9546,22,Zomato,Debit Card,
+3276,17,10-03-25,7473,22,GymPlus,Debit Card,
+1164,7,10-03-25,1522,15,Netflix,Credit Card,
+3814,20,10-03-25,1681,15,Amazon,UPI,
+2631,14,10-03-25,5337,18,Ola,UPI,
+3039,16,11-03-25,1105,12,Flipkart,Debit Card,
+3606,19,11-03-25,557,13,Netflix,Credit Card,
+1858,11,11-03-25,856,14,Amazon,Credit Card,
+1351,8,11-03-25,718,13,Flipkart,Debit Card,
+2545,14,11-03-25,1131,12,Netflix,UPI,
+3291,18,11-03-25,601,12,BigBazaar,Debit Card,
+1752,10,11-03-25,1597,16,BigBazaar,Debit Card,
+2203,12,11-03-25,1794,17,BigBazaar,Credit Card,
+839,5,11-03-25,535,15,MedPlus,Debit Card,
+1813,10,11-03-25,1580,15,Uber,Debit Card,
+2235,12,11-03-25,3264,18,Netflix,Cash,
+3376,18,11-03-25,1208,15,Spotify,Cash,
+1304,8,12-03-25,6520,22,Swiggy,Credit Card,
+543,4,12-03-25,3585,21,Flipkart,Cash,
+953,6,12-03-25,18000,11,Flipkart,Cash,
+1951,11,12-03-25,571,12,Ola,Cash,split with friend
+222,2,12-03-25,2908,21,GymPlus,Cash,split with friend
+2600,14,12-03-25,2409,21,GymPlus,Debit Card,
+927,6,12-03-25,581,12,Ola,Debit Card,
+1926,11,12-03-25,2736,21,Flipkart,UPI,
+750,5,12-03-25,9942,22,Swiggy,Credit Card,
+1709,10,13-03-25,2698,10,Flipkart,Cash,split with friend
+1275,7,13-03-25,15000,11,GymPlus,Credit Card,split with friend
+2557,14,13-03-25,725,13,Uber,Debit Card,
+2891,16,13-03-25,299,20,Uber,Debit Card,
+3296,18,13-03-25,2273,21,MedPlus,Credit Card,split with friend
+708,4,13-03-25,1418,16,Swiggy,UPI,
+329,3,14-03-25,2922,10,GymPlus,UPI,
+1721,10,14-03-25,622,15,Spotify,Credit Card,
+148,2,14-03-25,1528,16,GymPlus,Debit Card,
+480,3,14-03-25,3340,22,Ola,Cash,
+714,4,14-03-25,1159,13,MedPlus,Credit Card,
+3016,16,14-03-25,1131,13,Uber,Credit Card,split with friend
+2015,11,14-03-25,2838,10,Spotify,Debit Card,
+3544,19,14-03-25,997,15,Amazon,UPI,
+3351,18,14-03-25,1883,19,Flipkart,Debit Card,split with friend
+455,3,15-03-25,847,10,MedPlus,UPI,
+2081,12,15-03-25,769,14,Spotify,Debit Card,split with friend
+3117,17,15-03-25,3380,22,Uber,Debit Card,
+536,3,15-03-25,4260,19,Swiggy,UPI,split with friend
+3092,17,15-03-25,874,15,Netflix,Debit Card,
+1430,8,15-03-25,1289,19,Spotify,Debit Card,
+2241,12,15-03-25,6606,18,IRCTC,UPI,
+2969,16,15-03-25,1432,16,Amazon,UPI,
+3287,17,15-03-25,889,19,IRCTC,UPI,
+78,1,15-03-25,15000,11,Flipkart,UPI,
+2050,11,15-03-25,2075,10,Zomato,Credit Card,
+2260,12,15-03-25,612,15,Ola,Credit Card,
+402,3,15-03-25,2600,18,Ola,Cash,split with friend
+3095,17,16-03-25,849,13,Flipkart,Debit Card,
+3610,19,16-03-25,723,14,IRCTC,Cash,
+25,1,16-03-25,1516,17,IRCTC,Debit Card,
+628,4,16-03-25,12000,11,Uber,Credit Card,
+2584,14,16-03-25,3370,10,Spotify,Debit Card,split with friend
+2205,12,16-03-25,6711,19,Spotify,Cash,
+2755,15,16-03-25,5901,22,Swiggy,Credit Card,
+2324,13,17-03-25,582,15,Flipkart,Credit Card,
+3314,18,17-03-25,4181,10,Flipkart,UPI,
+1286,7,17-03-25,4340,10,GymPlus,Credit Card,
+2988,16,17-03-25,362,14,Spotify,Cash,
+361,3,17-03-25,2605,10,GymPlus,UPI,
+1472,8,17-03-25,3131,10,Flipkart,Debit Card,
+2026,11,17-03-25,999,20,BigBazaar,UPI,
+910,6,17-03-25,697,19,Zomato,Cash,
+1001,6,17-03-25,738,15,Amazon,Debit Card,split with friend
+1686,10,17-03-25,802,12,GymPlus,Credit Card,
+3115,17,18-03-25,4431,21,Ola,UPI,split with friend
+3404,18,18-03-25,691,13,Amazon,Credit Card,split with friend
+1193,7,18-03-25,847,14,MedPlus,UPI,
+135,2,18-03-25,2972,10,MedPlus,Credit Card,
+3612,19,18-03-25,988,14,Swiggy,Debit Card,
+932,6,18-03-25,1523,21,Ola,UPI,
+2743,15,18-03-25,4018,21,Spotify,Debit Card,
+3340,18,19-03-25,3537,21,IRCTC,Cash,
+956,6,19-03-25,1118,12,Amazon,Credit Card,
+3080,17,19-03-25,3418,19,BigBazaar,Cash,
+572,4,19-03-25,2366,17,Uber,Cash,
+1050,7,19-03-25,2569,10,Netflix,Debit Card,split with friend
+164,2,19-03-25,5149,18,Amazon,UPI,
+2877,16,19-03-25,1422,16,Amazon,Debit Card,
+680,4,19-03-25,1004,15,Swiggy,UPI,
+3282,17,19-03-25,650,14,Swiggy,Credit Card,
+623,4,19-03-25,10203,22,IRCTC,Cash,
+1814,10,19-03-25,2840,17,IRCTC,Debit Card,split with friend
+1034,6,19-03-25,292,14,Netflix,Debit Card,
+2222,12,19-03-25,13107,22,BigBazaar,Debit Card,
+2483,14,20-03-25,837,19,Zomato,Credit Card,
+2365,13,20-03-25,2908,19,BigBazaar,Debit Card,
+2336,13,20-03-25,255,12,IRCTC,Cash,
+1009,6,20-03-25,772,16,Ola,UPI,
+2560,14,20-03-25,7794,18,MedPlus,Debit Card,split with friend
+2535,14,20-03-25,620,13,Flipkart,Cash,
+2020,11,20-03-25,1493,15,BigBazaar,Credit Card,
+1748,10,20-03-25,1565,14,Ola,Cash,
+75,1,20-03-25,531,14,Ola,UPI,
+2953,16,20-03-25,199,20,Swiggy,Debit Card,split with friend
+231,2,20-03-25,499,20,Amazon,Credit Card,split with friend
+2134,12,20-03-25,18000,11,BigBazaar,Credit Card,split with friend
+1753,10,20-03-25,4306,19,MedPlus,Credit Card,split with friend
+2156,12,20-03-25,3048,17,Uber,Debit Card,
+1217,7,20-03-25,15000,11,BigBazaar,UPI,
+1761,10,20-03-25,1311,22,Ola,Debit Card,
+2397,13,21-03-25,667,14,IRCTC,UPI,
+2435,13,21-03-25,15000,11,Zomato,Debit Card,
+642,4,21-03-25,524,13,MedPlus,Credit Card,
+3737,20,21-03-25,611,15,Amazon,Debit Card,
+2498,14,21-03-25,1577,16,Flipkart,Credit Card,
+3030,16,21-03-25,3808,10,Netflix,Credit Card,
+1428,8,21-03-25,1245,15,Amazon,Credit Card,split with friend
+2492,14,21-03-25,673,13,GymPlus,Cash,
+1730,10,21-03-25,631,13,IRCTC,UPI,
+1523,9,21-03-25,2424,21,BigBazaar,UPI,
+2175,12,21-03-25,2175,10,Zomato,Cash,
+614,4,22-03-25,3810,21,Uber,Cash,
+2691,15,22-03-25,2404,18,GymPlus,Debit Card,split with friend
+3008,16,22-03-25,1306,21,Flipkart,UPI,
+1054,7,22-03-25,4383,21,Netflix,Credit Card,
+1842,11,22-03-25,1245,21,Amazon,Credit Card,
+176,2,23-03-25,199,20,IRCTC,Credit Card,split with friend
+2470,13,23-03-25,546,14,Spotify,Credit Card,
+1793,10,23-03-25,338,15,MedPlus,Debit Card,
+929,6,23-03-25,299,20,Ola,Credit Card,
+1731,10,23-03-25,6649,22,Netflix,UPI,
+503,3,23-03-25,1172,13,BigBazaar,UPI,
+683,4,23-03-25,3353,17,Netflix,Debit Card,
+3335,18,23-03-25,856,19,IRCTC,UPI,split with friend
+3227,17,23-03-25,1244,13,Swiggy,Cash,
+2362,13,23-03-25,15000,11,Flipkart,UPI,
+2080,12,23-03-25,20000,11,Ola,Debit Card,
+1259,7,23-03-25,740,13,Netflix,Cash,
+1884,11,23-03-25,620,15,Amazon,UPI,
+3793,20,23-03-25,2578,17,Flipkart,Cash,split with friend
+2396,13,23-03-25,508,14,Ola,UPI,
+1992,11,23-03-25,909,12,Netflix,Credit Card,
+1218,7,24-03-25,832,15,Ola,Cash,split with friend
+2016,11,24-03-25,1441,16,Ola,Cash,
+1924,11,24-03-25,716,12,IRCTC,Debit Card,
+1531,9,24-03-25,3269,21,Netflix,UPI,
+2547,14,24-03-25,735,13,GymPlus,Cash,
+2043,11,24-03-25,2136,18,Netflix,UPI,
+1345,8,24-03-25,918,15,Ola,Debit Card,
+2622,14,24-03-25,5252,19,MedPlus,Credit Card,
+2047,11,24-03-25,886,12,Amazon,Cash,
+1959,11,24-03-25,774,13,Zomato,Credit Card,split with friend
+1000,6,24-03-25,3443,10,BigBazaar,Debit Card,
+1006,6,24-03-25,921,12,Ola,UPI,
+2680,15,25-03-25,615,14,Ola,Debit Card,
+524,3,25-03-25,354,15,GymPlus,Debit Card,split with friend
+1125,7,25-03-25,1499,15,Zomato,UPI,
+1344,8,25-03-25,12000,11,Spotify,Credit Card,split with friend
+3788,20,25-03-25,688,16,Flipkart,Cash,
+2808,15,25-03-25,1571,17,IRCTC,Credit Card,
+2871,16,26-03-25,199,20,Uber,Credit Card,split with friend
+822,5,26-03-25,963,15,Swiggy,Credit Card,
+2320,13,26-03-25,999,20,MedPlus,Cash,split with friend
+936,6,26-03-25,650,15,Ola,UPI,
+2181,12,26-03-25,18000,11,Zomato,UPI,
+1693,10,26-03-25,1131,14,Netflix,Debit Card,
+341,3,26-03-25,2677,17,MedPlus,Debit Card,
+1424,8,26-03-25,1441,16,Spotify,Cash,
+1905,11,26-03-25,4701,10,Flipkart,Cash,
+3766,20,26-03-25,1184,12,Swiggy,Debit Card,split with friend
+471,3,26-03-25,604,15,Spotify,Cash,
+1154,7,26-03-25,1235,12,Uber,Cash,
+1416,8,26-03-25,12993,22,Ola,Cash,
+2806,15,26-03-25,18000,11,Swiggy,UPI,
+1371,8,26-03-25,2657,21,Amazon,Cash,
+3664,20,27-03-25,1951,16,BigBazaar,Debit Card,
+1618,9,27-03-25,6778,18,IRCTC,UPI,
+1539,9,27-03-25,1391,13,Netflix,Credit Card,
+595,4,27-03-25,15000,11,Ola,UPI,
+1258,7,27-03-25,499,20,Swiggy,Cash,
+1210,7,27-03-25,313,13,Zomato,Cash,
+335,3,27-03-25,5745,18,Flipkart,Debit Card,
+1963,11,27-03-25,1831,16,Uber,Debit Card,
+1097,7,27-03-25,633,13,IRCTC,Cash,
+386,3,28-03-25,921,14,Flipkart,Cash,
+2083,12,28-03-25,499,20,Swiggy,Credit Card,
+3565,19,28-03-25,3367,19,GymPlus,Cash,
+1307,8,28-03-25,3568,21,Netflix,Debit Card,
+1638,9,28-03-25,6723,22,Swiggy,UPI,
+1067,7,28-03-25,119,14,Ola,Cash,
+752,5,28-03-25,883,16,Zomato,Credit Card,
+633,4,28-03-25,2247,16,Zomato,Cash,split with friend
+817,5,28-03-25,961,12,Flipkart,Credit Card,
+3639,20,28-03-25,299,20,MedPlus,Cash,
+1340,8,29-03-25,3305,22,Uber,Cash,split with friend
+3315,18,29-03-25,1224,13,Swiggy,Credit Card,split with friend
+3145,17,29-03-25,1148,19,Ola,UPI,
+391,3,29-03-25,20000,11,MedPlus,UPI,split with friend
+1048,7,29-03-25,12000,11,Amazon,Debit Card,
+643,4,29-03-25,1375,17,Ola,Cash,
+590,4,29-03-25,846,12,Flipkart,Credit Card,
+61,1,29-03-25,499,20,Spotify,UPI,
+2504,14,29-03-25,319,17,Zomato,UPI,
+1591,9,29-03-25,991,16,Netflix,UPI,
+117,2,30-03-25,2948,21,Netflix,UPI,split with friend
+3830,20,30-03-25,4717,19,Netflix,UPI,
+3588,19,30-03-25,1065,12,Spotify,Debit Card,
+2293,13,30-03-25,2736,17,Zomato,Cash,
+2681,15,30-03-25,5541,22,Ola,Debit Card,split with friend
+613,4,30-03-25,199,20,Flipkart,Debit Card,
+3803,20,30-03-25,1237,16,Zomato,Credit Card,
+146,2,31-03-25,886,14,Ola,Debit Card,
+1229,7,31-03-25,3058,10,Amazon,Debit Card,
+1169,7,31-03-25,5589,19,MedPlus,Cash,split with friend
+803,5,31-03-25,453,12,GymPlus,UPI,
+49,1,31-03-25,1349,15,MedPlus,UPI,
+3586,19,31-03-25,1533,16,GymPlus,Credit Card,
+2448,13,31-03-25,2375,17,MedPlus,UPI,
+1282,7,31-03-25,2812,10,Uber,Credit Card,
+2461,13,01-04-25,2020,17,MedPlus,Cash,split with friend
+397,3,01-04-25,5286,19,Ola,UPI,
+995,6,01-04-25,874,17,Zomato,Cash,
+2148,12,01-04-25,4218,21,IRCTC,Credit Card,split with friend
+2244,12,01-04-25,2608,10,Uber,Cash,
+2500,14,01-04-25,499,20,IRCTC,Debit Card,
+177,2,01-04-25,4656,10,Amazon,Credit Card,
+347,3,01-04-25,1900,10,IRCTC,Cash,split with friend
+2697,15,01-04-25,999,20,BigBazaar,UPI,split with friend
+1287,7,01-04-25,926,13,Amazon,Cash,
+816,5,02-04-25,1603,10,BigBazaar,Cash,split with friend
+2975,16,02-04-25,5540,22,BigBazaar,Cash,
+692,4,02-04-25,2351,19,Spotify,Credit Card,
+159,2,02-04-25,10460,22,BigBazaar,UPI,
+1642,9,02-04-25,2843,21,Uber,UPI,split with friend
+3201,17,02-04-25,965,16,IRCTC,UPI,
+3079,17,02-04-25,1401,13,BigBazaar,Credit Card,
+2629,14,02-04-25,2561,19,MedPlus,Debit Card,
+3727,20,02-04-25,1436,15,Zomato,Debit Card,split with friend
+812,5,02-04-25,1544,17,Flipkart,Cash,
+416,3,03-04-25,996,13,MedPlus,Cash,
+2023,11,03-04-25,861,13,MedPlus,UPI,split with friend
+1786,10,03-04-25,119,12,Netflix,Debit Card,
+757,5,03-04-25,2747,17,IRCTC,UPI,
+1797,10,03-04-25,1836,19,Netflix,Cash,
+2798,15,03-04-25,3018,19,Flipkart,UPI,
+981,6,03-04-25,334,17,BigBazaar,Debit Card,split with friend
+2863,16,03-04-25,976,14,IRCTC,Debit Card,
+2414,13,03-04-25,2872,21,Zomato,Cash,split with friend
+2011,11,03-04-25,199,20,BigBazaar,Credit Card,
+2406,13,03-04-25,18000,11,Swiggy,Cash,split with friend
+694,4,03-04-25,451,17,Ola,Debit Card,
+2714,15,03-04-25,7474,22,BigBazaar,UPI,
+504,3,03-04-25,1207,15,BigBazaar,UPI,split with friend
+2676,15,03-04-25,270,17,Zomato,Cash,
+245,2,03-04-25,3547,10,Zomato,Debit Card,split with friend
+2917,16,03-04-25,5768,10,Swiggy,Debit Card,
+2943,16,04-04-25,1649,17,Amazon,Cash,
+2990,16,04-04-25,1045,15,MedPlus,Debit Card,
+2154,12,04-04-25,12000,11,Ola,Credit Card,
+3462,18,04-04-25,1403,21,Amazon,Debit Card,
+249,2,04-04-25,199,20,Ola,Cash,
+1565,9,04-04-25,3524,10,Spotify,UPI,
+2747,15,04-04-25,968,12,Netflix,Cash,
+783,5,04-04-25,1722,15,Netflix,Cash,
+912,6,04-04-25,1315,14,Amazon,Cash,
+2467,13,05-04-25,1000,13,BigBazaar,Cash,
+1083,7,05-04-25,2339,21,GymPlus,Credit Card,
+1662,10,05-04-25,20000,11,Ola,UPI,
+2807,15,05-04-25,499,20,IRCTC,Cash,split with friend
+1159,7,06-04-25,1732,16,Zomato,Credit Card,
+320,3,06-04-25,1396,21,Ola,Credit Card,
+1378,8,06-04-25,2508,22,Ola,UPI,
+2741,15,06-04-25,3273,17,Amazon,Credit Card,
+1969,11,06-04-25,347,19,Spotify,Cash,
+28,1,06-04-25,999,20,Swiggy,Credit Card,
+1331,8,06-04-25,2922,21,Swiggy,Debit Card,
+3767,20,06-04-25,1779,21,Swiggy,Debit Card,
+1734,10,06-04-25,999,20,Swiggy,UPI,
+1986,11,06-04-25,4760,18,Uber,Debit Card,
+48,1,06-04-25,1366,15,Spotify,UPI,
+550,4,07-04-25,1445,13,Uber,Credit Card,
+2960,16,07-04-25,1431,21,Uber,Debit Card,
+1559,9,07-04-25,427,15,Swiggy,UPI,
+592,4,07-04-25,1237,15,Flipkart,UPI,
+2388,13,07-04-25,819,13,Ola,UPI,
+1675,10,08-04-25,656,14,MedPlus,Debit Card,
+1399,8,08-04-25,3589,18,MedPlus,Credit Card,
+3662,20,08-04-25,988,15,MedPlus,Cash,
+1138,7,08-04-25,3862,18,MedPlus,Credit Card,split with friend
+3320,18,08-04-25,2692,17,Spotify,Credit Card,
+1127,7,08-04-25,2031,16,Amazon,UPI,split with friend
+3233,17,08-04-25,1587,13,Zomato,Cash,
+1927,11,08-04-25,935,15,BigBazaar,Debit Card,
+1563,9,08-04-25,2145,17,Flipkart,UPI,
+3822,20,08-04-25,20000,11,Netflix,Credit Card,
+3458,18,08-04-25,5545,10,Netflix,Debit Card,
+1462,8,08-04-25,268,13,IRCTC,Cash,
+1194,7,09-04-25,891,15,Swiggy,Debit Card,
+3004,16,09-04-25,499,20,Amazon,Credit Card,
+223,2,09-04-25,426,17,Uber,Cash,
+605,4,09-04-25,749,16,BigBazaar,Cash,split with friend
+1030,6,09-04-25,945,16,MedPlus,UPI,
+2925,16,09-04-25,18000,11,MedPlus,Cash,
+197,2,09-04-25,2038,16,Uber,Debit Card,
+1697,10,09-04-25,796,12,Zomato,Cash,
+2566,14,10-04-25,677,16,Ola,UPI,
+2703,15,10-04-25,18000,11,Ola,UPI,
+1598,9,10-04-25,2240,17,Uber,Cash,
+2311,13,10-04-25,1476,17,Zomato,UPI,
+2153,12,10-04-25,15000,11,Netflix,Cash,
+3328,18,10-04-25,2153,21,Swiggy,Cash,
+411,3,10-04-25,3691,19,Uber,UPI,
+3683,20,10-04-25,319,16,Amazon,Credit Card,
+1052,7,11-04-25,9768,22,GymPlus,Credit Card,
+1585,9,11-04-25,1270,17,Netflix,Credit Card,
+2042,11,11-04-25,1338,12,Netflix,Credit Card,
+1232,7,11-04-25,2191,16,Swiggy,UPI,split with friend
+37,1,11-04-25,14823,22,BigBazaar,Debit Card,
+2890,16,11-04-25,1922,18,BigBazaar,Debit Card,
+2014,11,11-04-25,10000,11,Swiggy,Credit Card,
+1882,11,11-04-25,4067,10,Amazon,Debit Card,
+669,4,11-04-25,1059,14,GymPlus,Debit Card,
+2543,14,11-04-25,299,20,Ola,Credit Card,
+2534,14,11-04-25,2255,21,IRCTC,UPI,
+2464,13,12-04-25,10000,11,Uber,Credit Card,
+2453,13,12-04-25,559,13,Ola,Debit Card,
+1124,7,12-04-25,4329,10,BigBazaar,Credit Card,
+2444,13,12-04-25,851,13,Uber,Debit Card,
+664,4,12-04-25,12470,22,BigBazaar,UPI,
+1812,10,12-04-25,1070,16,Zomato,Credit Card,split with friend
+905,6,12-04-25,1622,18,Netflix,Cash,
+1477,8,12-04-25,854,12,Amazon,Credit Card,
+3195,17,13-04-25,327,15,Uber,Cash,
+3403,18,13-04-25,2813,10,Ola,Credit Card,
+3213,17,13-04-25,1039,12,BigBazaar,UPI,
+322,3,13-04-25,499,20,Netflix,Credit Card,
+1090,7,13-04-25,566,12,Ola,Credit Card,
+2432,13,13-04-25,1016,12,Swiggy,Cash,
+2957,16,13-04-25,764,15,Spotify,Credit Card,
+2066,12,14-04-25,3918,10,Uber,UPI,
+422,3,14-04-25,2454,17,BigBazaar,Debit Card,
+2748,15,14-04-25,1363,14,Flipkart,UPI,
+2561,14,14-04-25,2733,21,Ola,Cash,
+952,6,14-04-25,2680,21,Swiggy,Cash,
+3578,19,14-04-25,199,20,Netflix,Credit Card,
+3449,18,14-04-25,2388,16,IRCTC,Debit Card,split with friend
+118,2,14-04-25,2878,22,IRCTC,Credit Card,
+1055,7,14-04-25,236,14,Swiggy,Cash,split with friend
+219,2,15-04-25,18000,11,Swiggy,UPI,
+1785,10,15-04-25,999,20,Swiggy,Debit Card,
+289,2,15-04-25,999,20,Amazon,Debit Card,
+2508,14,15-04-25,856,12,Netflix,Cash,
+452,3,15-04-25,409,17,Zomato,Credit Card,
+300,3,15-04-25,703,10,Swiggy,Cash,
+3739,20,15-04-25,10975,22,Spotify,Debit Card,
+42,1,15-04-25,590,14,Ola,UPI,
+1915,11,15-04-25,199,20,Spotify,Credit Card,
+670,4,15-04-25,3478,19,Zomato,Credit Card,
+2685,15,16-04-25,1790,16,Swiggy,Cash,
+808,5,16-04-25,1521,13,Zomato,UPI,
+1362,8,16-04-25,1015,19,Zomato,Debit Card,
+2497,14,16-04-25,2686,21,Amazon,Debit Card,
+3546,19,16-04-25,999,20,Amazon,Debit Card,
+3765,20,16-04-25,15000,11,Amazon,Debit Card,split with friend
+3808,20,16-04-25,15000,11,Flipkart,Credit Card,
+1191,7,16-04-25,3690,18,Flipkart,Cash,
+638,4,16-04-25,9077,22,Amazon,Cash,split with friend
+1415,8,16-04-25,3332,17,Ola,Debit Card,
+2367,13,16-04-25,2750,10,Zomato,Debit Card,
+1660,10,16-04-25,12000,11,Amazon,UPI,split with friend
+1910,11,17-04-25,499,20,GymPlus,Debit Card,
+147,2,17-04-25,657,14,Amazon,UPI,
+2846,16,17-04-25,20000,11,Netflix,UPI,split with friend
+1781,10,17-04-25,4055,18,Ola,Credit Card,
+2780,15,17-04-25,4834,19,Flipkart,Credit Card,
+3861,20,17-04-25,1430,13,Netflix,Cash,
+837,5,17-04-25,947,15,Ola,Cash,
+1132,7,17-04-25,925,13,Uber,Credit Card,
+4,1,17-04-25,805,14,IRCTC,Credit Card,
+3754,20,17-04-25,9120,22,IRCTC,UPI,
+829,5,17-04-25,199,20,Zomato,Cash,
+2904,16,17-04-25,934,13,IRCTC,Debit Card,
+3221,17,18-04-25,3169,21,Netflix,Debit Card,
+3299,18,18-04-25,2617,10,Flipkart,UPI,
+2291,13,18-04-25,808,18,Flipkart,Credit Card,split with friend
+1269,7,18-04-25,299,20,Spotify,Credit Card,
+1998,11,18-04-25,20000,11,MedPlus,Debit Card,
+387,3,18-04-25,1869,18,BigBazaar,Cash,split with friend
+3007,16,18-04-25,4142,19,MedPlus,Debit Card,split with friend
+3051,17,18-04-25,4336,21,Zomato,Cash,
+1728,10,18-04-25,1073,16,BigBazaar,Debit Card,
+3584,19,18-04-25,836,16,Uber,Credit Card,split with friend
+3129,17,18-04-25,1470,16,Amazon,Cash,
+648,4,19-04-25,460,13,Uber,Credit Card,
+3713,20,19-04-25,2885,22,Swiggy,Debit Card,split with friend
+650,4,19-04-25,1362,13,Zomato,UPI,
+336,3,19-04-25,3313,18,Spotify,UPI,split with friend
+2930,16,19-04-25,2865,19,Netflix,UPI,
+698,4,19-04-25,1477,13,BigBazaar,UPI,
+878,5,19-04-25,996,14,Zomato,Cash,
+3745,20,19-04-25,1077,12,Amazon,Credit Card,split with friend
+137,2,19-04-25,5311,18,Spotify,Credit Card,split with friend
+486,3,19-04-25,2100,10,Uber,UPI,
+1325,8,19-04-25,2889,19,Swiggy,UPI,split with friend
+2604,14,19-04-25,7363,22,Swiggy,Cash,
+2211,12,20-04-25,1546,13,GymPlus,Debit Card,
+729,4,20-04-25,2313,17,Ola,UPI,
+1201,7,20-04-25,3940,19,BigBazaar,Debit Card,
+1829,11,20-04-25,6363,22,Flipkart,Debit Card,
+580,4,20-04-25,367,14,Swiggy,UPI,
+96,1,20-04-25,1248,13,Netflix,UPI,
+1121,7,20-04-25,215,12,Ola,Debit Card,
+2610,14,20-04-25,1177,14,BigBazaar,Credit Card,split with friend
+855,5,20-04-25,3459,17,Swiggy,Cash,
+52,1,21-04-25,10000,11,GymPlus,Debit Card,
+725,4,21-04-25,589,15,Netflix,UPI,split with friend
+368,3,21-04-25,1086,14,Flipkart,Cash,
+3515,19,21-04-25,3998,21,Flipkart,UPI,
+2001,11,21-04-25,12000,11,Amazon,Debit Card,split with friend
+3857,20,21-04-25,1289,21,Spotify,Cash,split with friend
+2502,14,21-04-25,2278,17,MedPlus,Debit Card,
+3421,18,21-04-25,12000,11,Swiggy,Debit Card,
+2974,16,21-04-25,5314,10,GymPlus,Credit Card,
+2102,12,22-04-25,499,20,Swiggy,Cash,
+1802,10,22-04-25,299,20,Uber,Credit Card,
+2576,14,22-04-25,5943,18,MedPlus,Cash,
+2958,16,22-04-25,497,14,MedPlus,Credit Card,
+3070,17,22-04-25,3032,21,GymPlus,Cash,
+2825,16,22-04-25,3797,18,GymPlus,UPI,split with friend
+2383,13,22-04-25,1430,13,GymPlus,UPI,
+2072,12,22-04-25,1074,13,IRCTC,Cash,
+413,3,22-04-25,2732,17,Amazon,Debit Card,
+3252,17,22-04-25,960,12,Amazon,Credit Card,split with friend
+2542,14,22-04-25,5267,19,Uber,Credit Card,
+1510,9,23-04-25,2599,18,Swiggy,Credit Card,
+1750,10,23-04-25,905,15,Spotify,Debit Card,
+555,4,23-04-25,597,14,IRCTC,Cash,
+2437,13,23-04-25,2561,10,GymPlus,Cash,
+123,2,23-04-25,1053,14,IRCTC,Credit Card,
+3566,19,23-04-25,3528,19,Swiggy,UPI,
+3491,18,23-04-25,499,20,Amazon,Cash,split with friend
+181,2,24-04-25,2725,21,BigBazaar,Credit Card,
+2387,13,24-04-25,362,14,BigBazaar,Credit Card,split with friend
+1370,8,24-04-25,1257,14,Swiggy,Cash,
+1803,10,24-04-25,10000,11,Uber,Credit Card,
+1176,7,24-04-25,299,20,Amazon,Credit Card,
+824,5,24-04-25,1738,17,Swiggy,Debit Card,
+1279,7,24-04-25,521,14,Netflix,Debit Card,split with friend
+1568,9,24-04-25,1889,15,Netflix,Debit Card,
+1741,10,24-04-25,15000,11,Swiggy,Debit Card,
+2533,14,24-04-25,12000,11,BigBazaar,Cash,
+2157,12,24-04-25,753,14,GymPlus,UPI,
+2721,15,24-04-25,216,12,MedPlus,UPI,
+1554,9,24-04-25,837,14,Spotify,Cash,split with friend
+534,3,25-04-25,3440,21,Ola,UPI,split with friend
+3791,20,25-04-25,811,13,Netflix,Cash,
+304,3,25-04-25,706,14,Flipkart,Credit Card,
+2304,13,25-04-25,3178,19,Flipkart,UPI,
+3523,19,25-04-25,3160,21,Uber,Cash,
+2811,15,25-04-25,4035,10,Spotify,Cash,
+2830,16,25-04-25,948,13,IRCTC,Debit Card,split with friend
+1153,7,25-04-25,7568,18,Netflix,Debit Card,split with friend
+2902,16,25-04-25,721,12,IRCTC,Debit Card,
+195,2,25-04-25,673,12,Uber,UPI,
+1421,8,26-04-25,766,15,Uber,Credit Card,
+2353,13,26-04-25,2644,10,Flipkart,Debit Card,
+212,2,26-04-25,1063,12,BigBazaar,UPI,
+2223,12,26-04-25,199,20,GymPlus,UPI,split with friend
+3156,17,26-04-25,1681,16,Netflix,UPI,
+1175,7,26-04-25,299,20,Spotify,Cash,
+1068,7,26-04-25,5486,19,GymPlus,Debit Card,

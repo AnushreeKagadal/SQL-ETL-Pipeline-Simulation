@@ -90,13 +90,6 @@ Redundancy is decreased by storing each entity (user, category, transaction) in 
 
 ---
 
-## 6. ER Diagram  
-
-![ER Diagram](C:\Users\win10\Desktop\Personal-Finance-Tracker\personal_finance_tracker.png)  
-> *This diagram shows the relationships between Users, Income, Expenses, and Categories tables with foreign keys.* 
-
----
-
 ## 7. Future Enhancements  
 
 | Feature | Benefit |
